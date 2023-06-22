@@ -1,0 +1,28 @@
+.bacan{
+    background-color: chartreuse;
+ }
+ .img2{
+     background-color: crimson;
+ }
+ h1{
+     color: red;
+     font-size: 3rem ;
+     font-weight: bolder;
+     margin-top: 10px;
+ }
+ .circular{
+     border-radius: 100%;
+ }
+ img:hover{
+     background-color: gold;
+ }
+ #heading{
+     color: blue;
+ }
+ body{
+    line-height: 2rem;
+
+ }
+ p{
+    margin-top: 6px;
+ }
